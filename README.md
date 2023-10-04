@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>PyTorch VAE</b><br>
+  <b>PyTorch VAE de Juan2</b><br>
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 </p>
 
-**Update 22/12/2021:** Added support for PyTorch Lightning 1.5.6 version and cleaned up the code.
+**Update 22/12/2021:** kkkk Added support for PyTorch Lightning 1.5.6 version and cleaned up the code.
 
 A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility. The aim of this project is to provide
 a quick and simple working example for many of the cool VAE models out there. All the models are trained on the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
