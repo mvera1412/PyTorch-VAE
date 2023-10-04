@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>PyTorch VAE</b><br>
+  <b>PyTorch VAE de Juan</b><br>
 </h1>
 
 <p align="center">
